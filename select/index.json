@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Fly",
+  "base_artist": "Marshmello",
+  "createdAt": "2026-02-28T14:36:11.737315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ready To Fly",
+      "artist": "Didrick feat. Adam Young",
+      "has_synced": true,
+      "path": "select/01_Ready_To_Fly_Didrick_feat._Adam_Young.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ready to Fly",
+      "artist": "Didrick, Adam Young",
+      "has_synced": true,
+      "path": "select/02_Ready_to_Fly_Didrick,_Adam_Young.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Where the Stars and Stripes and the Eagle Fly",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/03_Where_the_Stars_and_Stripes_and_the_Eagle_Fly_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Where The Stars And Stripes And The Eagle Fly (Album Version)",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/04_Where_The_Stars_And_Stripes_And_The_Eagle_Fly_(Album_Version)_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Born to Fly",
+      "artist": "Sara Evans",
+      "has_synced": true,
+      "path": "select/05_Born_to_Fly_Sara_Evans.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly Over States",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/06_Fly_Over_States_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Fly Away",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/07_I'll_Fly_Away_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Fly Away",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/08_I'll_Fly_Away_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Fly Away",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/09_I'll_Fly_Away_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Dollar (Fly Away)",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/10_Last_Dollar_(Fly_Away)_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Dollar (Fly Away)",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/11_Last_Dollar_(Fly_Away)_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Look At 'Em Fly",
+      "artist": "Craig Morgan",
+      "has_synced": true,
+      "path": "select/12_Look_At_'Em_Fly_Craig_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise (Fly Up Your Nose)",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": true,
+      "path": "select/13_May_the_Bird_of_Paradise_(Fly_Up_Your_Nose)_Little_Jimmy_Dickens.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise (Fly Up Your Nose) (Album Version)",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": true,
+      "path": "select/14_May_the_Bird_of_Paradise_(Fly_Up_Your_Nose)_(Album_Version)_Little_Jimmy_Dickens.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise Fly Up Your Nose",
+      "artist": "'Little' Jimmy Dickens",
+      "has_synced": false,
+      "path": "select/15_May_the_Bird_of_Paradise_Fly_Up_Your_Nose_'Little'_Jimmy_Dickens.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise Fly up Your Nose",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": true,
+      "path": "select/16_May_the_Bird_of_Paradise_Fly_up_Your_Nose_Little_Jimmy_Dickens.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sparks Fly",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/17_Sparks_Fly_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly",
+      "artist": "Marshmello",
+      "has_synced": false,
+      "path": "select/pl_01_Fly_Marshmello.txt"
+    }
+  ]
+}
